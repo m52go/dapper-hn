@@ -1,13 +1,13 @@
 # dapper-hn
-### an aesthetic revision
+### an aesthetic revision of hn with all the function and most of the charm
 
 ![](http://i.imgur.com/yaeDBhQ.jpg)
 
-One day it struck me that it wouldn't take much to make HN look a lot better. Its simplicity is supremely functional. 
-
-At the same time, while I appreciate the myriad clients people have made, I still really appreciate the charm of the original site.
+One day it struck me that it wouldn't take much to make HN look a lot better. Its simplicity is supremely functional, but sometimes its 90s-era charm feels a bit stale.
 
 So I made a stylesheet to retain the charm of the original site while smoothing out some of its rougher edge.
+
+### what it does
 
 Changes made include:
 * Background color is uniform throughout page.
@@ -19,7 +19,9 @@ Changes made include:
 * Added spacing between posts.
 * Nicer "More" button at page bottom.
 
-Here's a side-by-side comparison:
+Side-by-side comparison:
 ![](http://i.imgur.com/iVkU3pI.jpg)
+
+### how to use it
 
 You can simply copy & paste the CSS in this repository into a new Stylish style applied to "news.ycombinator.com". Stylish is available for Firefox and Chrome. Check out [their homepage here](https://userstyles.org/)...there are lots of other custom styles available there for many other websites.
