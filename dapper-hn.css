@@ -2,59 +2,59 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,200);
 @import "http://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
 
-body  { font-family: 'Lato', sans-serif; font-size:10pt; color: white; }
+html[op='news'] body  { font-family: 'Lato', sans-serif; font-size:10pt; color: white; }
 
-td    { font-family: 'Lato', sans-serif; font-size:10pt; color:#828282; }
+#hnmain td    { font-family: 'Lato', sans-serif; font-size:10pt; color:#828282; }
 
-.admin td   { font-family: 'Lato', sans-serif; font-size:8.5pt; color:#000000; }
-.subtext td { font-family: 'Lato', sans-serif; font-size:  7pt; color:#828282; }
+#hnmain .admin td   { font-family: 'Lato', sans-serif; font-size:8.5pt; color:#000000; }
+#hnmain .subtext td { font-family: 'Lato', sans-serif; font-size:  7pt; color:#828282; }
 
-input    { font-family:monospace; font-size:10pt; color:#000000; }
-textarea { font-family:monospace; font-size:10pt; color:#000000; }
+#hnmain input    { font-family:monospace; font-size:10pt; color:#000000; }
+#hnmain textarea { font-family:monospace; font-size:10pt; color:#000000; }
 
-a:link    { color:#000000; text-decoration:none; }
-a:visited { color:#828282; text-decoration:none; }
+#hnmain a:link    { color:#000000; text-decoration:none; }
+#hnmain a:visited { color:#828282; text-decoration:none; }
 
-.default { font-family: 'Lato', sans-serif; font-size: 10pt; color:#828282; }
-.admin   { font-family: 'Lato', sans-serif; font-size:8.5pt; color:#000000; }
-.title   { font-family: 'Lato', sans-serif; font-size: 10pt; color:#828282; }
-.adtitle { font-family: 'Lato', sans-serif; font-size:  9pt; color:#828282; }
-.subtext { font-family: 'Lato', sans-serif; font-size:  7pt; color:#828282; }
-.yclinks { font-family: 'Lato', sans-serif; font-size:  8pt; color:#828282; }
-.pagetop { font-family: 'Lato', sans-serif; font-size: 10pt; color:#222222; }
-.comhead { font-family: 'Lato', sans-serif; font-size:  8pt; color:#828282; }
-.comment { font-family: 'Lato', sans-serif; font-size:  9pt; }
+#hnmain .default { font-family: 'Lato', sans-serif; font-size: 10pt; color:#828282; }
+#hnmain .admin   { font-family: 'Lato', sans-serif; font-size:8.5pt; color:#000000; }
+#hnmain .title   { font-family: 'Lato', sans-serif; font-size: 10pt; color:#828282; }
+#hnmain .adtitle { font-family: 'Lato', sans-serif; font-size:  9pt; color:#828282; }
+#hnmain .subtext { font-family: 'Lato', sans-serif; font-size:  7pt; color:#828282; }
+#hnmain .yclinks { font-family: 'Lato', sans-serif; font-size:  8pt; color:#828282; }
+#hnmain .pagetop { font-family: 'Lato', sans-serif; font-size: 10pt; color:#222222; }
+#hnmain .comhead { font-family: 'Lato', sans-serif; font-size:  8pt; color:#828282; }
+#hnmain .comment { font-family: 'Lato', sans-serif; font-size:  9pt; }
 
-.comment a:link, .comment a:visited { text-decoration:underline;}
+#hnmain .comment a:link, .comment a:visited { text-decoration:underline;}
 
-.c00, .c00 a:link { color:#000000; }
-.c5a, .c5a a:link, .c5a a:visited { color:#5a5a5a; }
-.c73, .c73 a:link, .c73 a:visited { color:#737373; }
-.c82, .c82 a:link, .c82 a:visited { color:#828282; }
-.c88, .c88 a:link, .c88 a:visited { color:#888888; }
-.c9c, .c9c a:link, .c9c a:visited { color:#9c9c9c; }
-.cae, .cae a:link, .cae a:visited { color:#aeaeae; }
-.cbe, .cbe a:link, .cbe a:visited { color:#bebebe; }
-.cce, .cce a:link, .cce a:visited { color:#cecece; }
-.cdd, .cdd a:link, .cdd a:visited { color:#dddddd; }
+#hnmain .c00, .c00 a:link { color:#000000; }
+#hnmain .c5a, .c5a a:link, .c5a a:visited { color:#5a5a5a; }
+#hnmain .c73, .c73 a:link, .c73 a:visited { color:#737373; }
+#hnmain .c82, .c82 a:link, .c82 a:visited { color:#828282; }
+#hnmain .c88, .c88 a:link, .c88 a:visited { color:#888888; }
+#hnmain .c9c, .c9c a:link, .c9c a:visited { color:#9c9c9c; }
+#hnmain .cae, .cae a:link, .cae a:visited { color:#aeaeae; }
+#hnmain .cbe, .cbe a:link, .cbe a:visited { color:#bebebe; }
+#hnmain .cce, .cce a:link, .cce a:visited { color:#cecece; }
+#hnmain .cdd, .cdd a:link, .cdd a:visited { color:#dddddd; }
 
-.pagetop a:visited { color:#000000;}
-.topsel a:link, .topsel a:visited { color:#ffffff; }
+#hnmain .pagetop a:visited { color:#000000;}
+#hnmain .topsel a:link, .topsel a:visited { color:#ffffff; }
 
-.subtext a:link, .subtext a:visited { color:#828282; }
-.subtext a:hover { text-decoration:underline; }
+#hnmain .subtext a:link, .subtext a:visited { color:#828282; }
+#hnmain .subtext a:hover { text-decoration:underline; }
 
-.comhead a:link, .subtext a:visited { color:#828282; }
-.comhead a:hover { text-decoration:underline; }
+#hnmain .comhead a:link, .subtext a:visited { color:#828282; }
+#hnmain .comhead a:hover { text-decoration:underline; }
 
-.default p { margin-top: 8px; margin-bottom: 0px; }
+#hnmain .default p { margin-top: 8px; margin-bottom: 0px; }
 
-.pagebreak {page-break-before:always}
+#hnmain .pagebreak {page-break-before:always}
 
-pre { overflow: auto; padding: 2px; max-width:600px; }
-pre:hover {overflow:auto}
+#hnmain pre { overflow: auto; padding: 2px; max-width:600px; }
+#hnmain pre:hover {overflow:auto}
 
-.rotate180 {
+#hnmain .rotate180 {
   -webkit-transform: rotate(180deg);  /* Chrome and other webkit browsers */
   -moz-transform:    rotate(180deg);  /* FF */
   -o-transform:      rotate(180deg);  /* Opera */
@@ -62,7 +62,7 @@ pre:hover {overflow:auto}
   transform:         rotate(180deg);  /* W3C complaint browsers */
 }
 
-body {
+html[op='news'] body {
  	background-color: rgb(246, 246, 239);
 }
 
@@ -72,16 +72,16 @@ body {
     margin-top: 1px !important;
 }
 
-span.rank {
+#hnmain span.rank {
  	font-family: 'Raleway', sans-serif;
     font-size: 10px;
 }
 
-tr.spacer {
+#hnmain tr.spacer {
  	display: none;
 }
 
-img[src='y18.gif'] {
+#hnmain img[src='y18.gif'] {
  	border: none !important;
     padding: 0 5px;
 }
@@ -98,13 +98,13 @@ img[src='y18.gif'] {
  	width: 25px;
 }
 
-.votearrow {
+#hnmain .votearrow {
  	background-size: 10px;
 	background-image: url("https://s3.amazonaws.com/slick-hn/hn-upvote.png");
 	margin-bottom: -5px;
 }
 
-tr.morespace {
+#hnmain tr.morespace {
 	height: 15px;
 }
 
@@ -127,6 +127,6 @@ tr.morespace {
 	padding-top: 20px;
 }
 
-td.votelinks {
+#hnmain td.votelinks {
 	padding-top: 12px;
 }
