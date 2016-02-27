@@ -101,7 +101,7 @@ html[op='news'] body {
 #hnmain .votearrow {
  	background-size: 10px;
 	background-image: url("https://s3.amazonaws.com/slick-hn/hn-upvote.png");
-	margin-bottom: -5px;
+	margin-bottom: 0px;
 }
 
 #hnmain tr.morespace {
