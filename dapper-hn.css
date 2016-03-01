@@ -62,7 +62,7 @@ html[op='news'] body  { font-family: 'Lato', sans-serif; font-size:10pt; color: 
   transform:         rotate(180deg);  /* W3C complaint browsers */
 }
 
-html[op='news'] body {
+html[op='news'] body, html[op='item'] body {
  	background-color: rgb(246, 246, 239);
 }
 
