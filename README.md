@@ -1,5 +1,5 @@
 # dapper-hn
-### an aesthetic revision of hn with all the function and most of the charm
+### An aesthetic revision of hn with all the function and most of the charm.
 
 ![](http://i.imgur.com/yaeDBhQ.jpg)
 
