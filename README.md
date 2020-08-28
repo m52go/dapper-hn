@@ -24,4 +24,4 @@ Side-by-side comparison:
 
 ### how to use it
 
-You can simply copy & paste the CSS in this repository into a new Stylish style applied to "news.ycombinator.com". Stylish is available for Firefox and Chrome. Check out [their homepage here](https://userstyles.org/)...there are lots of other custom styles available there for many other websites.
+You can simply copy & paste the CSS in this repository into a new Stylus style applied to URLs starting with "https://news.ycombinator.com/". Stylus is available for Firefox and Chrome on their add-on marketplaces.
